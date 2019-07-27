@@ -5,16 +5,12 @@ Example on jungle testnet using cleos
 ----------------------------------
 #### Get started
 
-
-* Account info to play
-
 - Account name: akitamachine
 
-* Endpoint network:
-
+- Endpoint network:
 https://jungle2.cryptolions.io:443
 
-* Contract name: autopayment
+- Contract name: autopayment
 
 
 ##### Build & deploy smart contract
